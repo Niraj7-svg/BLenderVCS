@@ -1,0 +1,5 @@
+# IDE Settings
+.vscode/
+
+# macOS System Files
+.DS_Store
